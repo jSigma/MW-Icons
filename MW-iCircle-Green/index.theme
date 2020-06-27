@@ -1,0 +1,128 @@
+[Icon Theme]
+Name=Mrweb
+Comment=An icon theme for Linux desktops by mrweb
+Inherits=MW-iCircle-Blue,Yaru,Adwaita,gnome,hicolor
+Example=x-directory-normal
+
+
+##########################
+#   Plasma settings      #
+##########################
+DisplayDepth=32
+
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+
+# Directory list
+Directories=scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/legacy,scalable/mimetypes,scalable/places,scalable/status
+
+
+# Actions
+
+[scalable/actions]
+Context=Actions
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+# Animations
+
+[scalable/animations]
+Context=Animations
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+# Applications
+
+[scalable/apps]
+Context=Applications
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+
+# Categories
+
+[scalable/categories]
+Context=Categories
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+# Devices
+
+[scalable/devices]
+Context=Devices
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+# Emblems
+
+[scalable/emblems]
+Context=Emblems
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+# Emotes
+
+[scalable/emotes]
+Context=Emotes
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+# Legacy
+
+[scalable/legacy]
+Context=Legacy
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+# MimeTypes
+
+[scalable/mimetypes]
+Context=Mimetypes
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+# Places
+
+[scalable/places]
+Context=Places
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+# Status
+
+[scalable/status]
+Context=Status
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
