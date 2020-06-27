@@ -24,8 +24,17 @@ DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
 # Directory list
-Directories=scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/legacy,scalable/mimetypes,scalable/places,scalable/status
+Directories=scalable/mw,scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/legacy,scalable/mimetypes,scalable/places,scalable/status
 
+
+# MW
+
+[scalable/mw]
+Context=MW
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
 
 # Actions
 
