@@ -1,0 +1,22 @@
+[Icon Theme]
+Name=MW-Red
+Comment=An icon theme for Linux desktops
+Inherits=MW-Yaru-Red,Yaru,Humanity,hicolor
+Example=x-directory-normal
+
+# Directory list
+Directories=mw/mw,mw/apps
+
+[mw/mw]
+Context=MW
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+[mw/apps]
+Context=Apps
+Size=16
+MinSize=16
+MaxSize=256
+Type=Scalable
