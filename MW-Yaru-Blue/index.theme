@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=MW-Yaru-Blue
 Comment=An icon theme for Linux desktops by mrweb
-Inherits=MW-Yaru-Blue,Yaru,MW-Base-Yaru,Humanity,hicolor
+Inherits=MW-Yaru-Blue,Yaru,Humanity,hicolor
 Example=x-directory-normal
 
 # Directory list
