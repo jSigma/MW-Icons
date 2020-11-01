@@ -1,20 +1,14 @@
 [Icon Theme]
 Name=MW-Yaru-Blue
 Comment=An icon theme for Linux desktops by mrweb
-Inherits=MW-Base-Yaru-Blue,Yaru,Humanity,hicolor
+Inherits=MW-Yaru-Blue,MW-Base-Yaru-Red,Yaru,Humanity,hicolor
 Example=x-directory-normal
 
 # Directory list
-Directories=mw/mw,mw/apps
+Directories=mw/mw
 
 [mw/mw]
 Context=MW
-Size=16
-MinSize=16
-MaxSize=256
-Type=Scalable
-[mw/apps]
-Context=Apps
 Size=16
 MinSize=16
 MaxSize=256
